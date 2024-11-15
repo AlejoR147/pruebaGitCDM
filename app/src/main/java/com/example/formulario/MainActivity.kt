@@ -19,6 +19,28 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
+    jhdjhdjhjd
+        g
 
+        g
+        g
+        g
+        g
+
+        g
+        g
+        g
+        g
+        g
+        g
+        g
+        g
+        g
+        g
+        g
+        g
+        g
+        g
+        g
     }
 }
